@@ -5,3 +5,4 @@ print(s)
 
 s.remove(1)
 print(s)
+print(s)
