@@ -6,4 +6,5 @@ letter="""Dear <|name|>,
 you are selected!
 <|date|>
 """
-print(letter.replace("<|name|>","siba").replace("<|date|>","22 october 2004")) #chaining replace function
+print(letter.replace("<|name|>","siba").replace("<|date|>","22 october 2004"))
+ #chaining replace function
